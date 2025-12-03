@@ -1,0 +1,284 @@
+@font-face {
+    font-family: 'Kinetika';
+    src: url('../fonts/Kinetika-Black.eot');
+    src: local('Kinetika Black'), local('Kinetika-Black'),
+        url('../fonts/Kinetika-Black.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Kinetika-Black.woff2') format('woff2'),
+        url('../fonts/Kinetika-Black.woff') format('woff'),
+        url('../fonts/Kinetika-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kinetika';
+    src: url('../fonts/Kinetika-Bold.eot');
+    src: local('Kinetika Bold'), local('Kinetika-Bold'),
+        url('../fonts/Kinetika-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Kinetika-Bold.woff2') format('woff2'),
+        url('../fonts/Kinetika-Bold.woff') format('woff'),
+        url('../fonts/Kinetika-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kinetika Book';
+    src: url('../fonts/Kinetika-Book.eot');
+    src: local('Kinetika Book'), local('Kinetika-Book'),
+        url('../fonts/Kinetika-Book.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Kinetika-Book.woff2') format('woff2'),
+        url('../fonts/Kinetika-Book.woff') format('woff'),
+        url('../fonts/Kinetika-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kinetika';
+    src: url('../fonts/Kinetika-BoldItalic.eot');
+    src: local('Kinetika Bold Italic'), local('Kinetika-BoldItalic'),
+        url('../fonts/Kinetika-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Kinetika-BoldItalic.woff2') format('woff2'),
+        url('../fonts/Kinetika-BoldItalic.woff') format('woff'),
+        url('../fonts/Kinetika-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Kinetika Book';
+    src: url('../fonts/Kinetika-BookItalic.eot');
+    src: local('Kinetika Book Italic'), local('Kinetika-BookItalic'),
+        url('../fonts/Kinetika-BookItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Kinetika-BookItalic.woff2') format('woff2'),
+        url('../fonts/Kinetika-BookItalic.woff') format('woff'),
+        url('../fonts/Kinetika-BookItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Kinetika';
+    src: url('../fonts/Kinetika-BlackItalic.eot');
+    src: local('Kinetika Black Italic'), local('Kinetika-BlackItalic'),
+        url('../fonts/Kinetika-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Kinetika-BlackItalic.woff2') format('woff2'),
+        url('../fonts/Kinetika-BlackItalic.woff') format('woff'),
+        url('../fonts/Kinetika-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Kinetika';
+    src: url('../fonts/Kinetika-RegularItalic.eot');
+    src: local('Kinetika Italic'), local('Kinetika-RegularItalic'),
+        url('../fonts/Kinetika-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Kinetika-RegularItalic.woff2') format('woff2'),
+        url('../fonts/Kinetika-RegularItalic.woff') format('woff'),
+        url('../fonts/Kinetika-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Kinetika';
+    src: url('../fonts/Kinetika-Heavy.eot');
+    src: local('Kinetika Heavy'), local('Kinetika-Heavy'),
+        url('../fonts/Kinetika-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Kinetika-Heavy.woff2') format('woff2'),
+        url('../fonts/Kinetika-Heavy.woff') format('woff'),
+        url('../fonts/Kinetika-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kinetika';
+    src: url('../fonts/Kinetika-HeavyItalic.eot');
+    src: local('Kinetika Heavy Italic'), local('Kinetika-HeavyItalic'),
+        url('../fonts/Kinetika-HeavyItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Kinetika-HeavyItalic.woff2') format('woff2'),
+        url('../fonts/Kinetika-HeavyItalic.woff') format('woff'),
+        url('../fonts/Kinetika-HeavyItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Kinetika Semi';
+    src: url('../fonts/Kinetika-SemiBold.eot');
+    src: local('Kinetika Semi Bold'), local('Kinetika-SemiBold'),
+        url('../fonts/Kinetika-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Kinetika-SemiBold.woff2') format('woff2'),
+        url('../fonts/Kinetika-SemiBold.woff') format('woff'),
+        url('../fonts/Kinetika-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kinetika';
+    src: url('../fonts/Kinetika-Light.eot');
+    src: local('Kinetika Light'), local('Kinetika-Light'),
+        url('../fonts/Kinetika-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Kinetika-Light.woff2') format('woff2'),
+        url('../fonts/Kinetika-Light.woff') format('woff'),
+        url('../fonts/Kinetika-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kinetika Semi';
+    src: url('../fonts/Kinetika-SemiBoldItalic.eot');
+    src: local('Kinetika Semi Bold Italic'), local('Kinetika-SemiBoldItalic'),
+        url('../fonts/Kinetika-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Kinetika-SemiBoldItalic.woff2') format('woff2'),
+        url('../fonts/Kinetika-SemiBoldItalic.woff') format('woff'),
+        url('../fonts/Kinetika-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Kinetika Ultra';
+    src: url('../fonts/Kinetika-Ultra.eot');
+    src: local('Kinetika Ultra'), local('Kinetika-Ultra'),
+        url('../fonts/Kinetika-Ultra.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Kinetika-Ultra.woff2') format('woff2'),
+        url('../fonts/Kinetika-Ultra.woff') format('woff'),
+        url('../fonts/Kinetika-Ultra.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kinetika';
+    src: url('../fonts/Kinetika-LightItalic.eot');
+    src: local('Kinetika Light Italic'), local('Kinetika-LightItalic'),
+        url('../fonts/Kinetika-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Kinetika-LightItalic.woff2') format('woff2'),
+        url('../fonts/Kinetika-LightItalic.woff') format('woff'),
+        url('../fonts/Kinetika-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Kinetika';
+    src: url('../fonts/Kinetika-Medium.eot');
+    src: local('Kinetika Medium'), local('Kinetika-Medium'),
+        url('../fonts/Kinetika-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Kinetika-Medium.woff2') format('woff2'),
+        url('../fonts/Kinetika-Medium.woff') format('woff'),
+        url('../fonts/Kinetika-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kinetika';
+    src: url('../fonts/Kinetika-ThinItalic.eot');
+    src: local('Kinetika Thin Italic'), local('Kinetika-ThinItalic'),
+        url('../fonts/Kinetika-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Kinetika-ThinItalic.woff2') format('woff2'),
+        url('../fonts/Kinetika-ThinItalic.woff') format('woff'),
+        url('../fonts/Kinetika-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Kinetika';
+    src: url('../fonts/Kinetika-Thin.eot');
+    src: local('Kinetika Thin'), local('Kinetika-Thin'),
+        url('../fonts/Kinetika-Thin.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Kinetika-Thin.woff2') format('woff2'),
+        url('../fonts/Kinetika-Thin.woff') format('woff'),
+        url('../fonts/Kinetika-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kinetika';
+    src: url('../fonts/Kinetika-Regular.eot');
+    src: local('Kinetika'), local('Kinetika-Regular'),
+        url('../fonts/Kinetika-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Kinetika-Regular.woff2') format('woff2'),
+        url('../fonts/Kinetika-Regular.woff') format('woff'),
+        url('../fonts/Kinetika-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kinetika Ultra';
+    src: url('../fonts/Kinetika-UltraItalic.eot');
+    src: local('Kinetika Ultra Italic'), local('Kinetika-UltraItalic'),
+        url('../fonts/Kinetika-UltraItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Kinetika-UltraItalic.woff2') format('woff2'),
+        url('../fonts/Kinetika-UltraItalic.woff') format('woff'),
+        url('../fonts/Kinetika-UltraItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Kinetika';
+    src: url('../fonts/Kinetika-MediumItalic.eot');
+    src: local('Kinetika Medium Italic'), local('Kinetika-MediumItalic'),
+        url('../fonts/Kinetika-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Kinetika-MediumItalic.woff2') format('woff2'),
+        url('../fonts/Kinetika-MediumItalic.woff') format('woff'),
+        url('../fonts/Kinetika-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Optima Cyr';
+    src: url('../fonts/Optima.eot');
+    src: local('Optima Cyr'), local('Optima'),
+        url('../fonts/Optima.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Optima.woff') format('woff'),
+        url('../fonts/Optima.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Optima';
+    src: url('../fonts/AGOptimaBoldItalic.eot');
+    src: local('Optima Bold Italic'), local('AGOptimaBoldItalic'),
+        url('../fonts/AGOptimaBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/AGOptimaBoldItalic.woff') format('woff'),
+        url('../fonts/AGOptimaBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Optima';
+    src: url('../fonts/Optima-Italic.eot');
+    src: local('Optima Italic'), local('Optima-Italic'),
+        url('../fonts/Optima-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Optima-Italic.woff') format('woff'),
+        url('../fonts/Optima-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Optima';
+    src: url('../fonts/Optima-Bold.eot');
+    src: local('Optima Bold'), local('Optima-Bold'),
+        url('../fonts/Optima-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Optima-Bold.woff') format('woff'),
+        url('../fonts/Optima-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
